@@ -1,0 +1,1 @@
+const divOne=document.querySelector('#divOne')
