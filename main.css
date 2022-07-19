@@ -1,3 +1,17 @@
 .header {
     font-family: 'Courier New', Courier, monospace;
 }
+
+#divOne {
+    border: 4px;
+    border-color: black;
+    border-style: dotted;
+}
+
+/* li {
+    color: aqua
+} */
+
+.demoClass {
+    font-style: italic;
+}
